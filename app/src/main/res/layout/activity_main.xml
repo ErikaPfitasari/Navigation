@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:layout_marginLeft="16dp"
+    android:layout_marginRight="16dp"
+    android:layout_marginTop="16dp"
+    android:orientation="vertical"
+    tools:context="xir5n32.remidiuts.telkomschid.navigation.MainActivity">
+
+    <Button
+        android:id="@+id/buttonSatu"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="Naviagation 1" />
+
+    <Button
+        android:id="@+id/buttonDua"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="Naviagation 2" />
+
+    <Button
+        android:id="@+id/buttonTiga"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="Naviagation 3" />
+
+    <Button
+        android:id="@+id/buttonEmpat"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="Naviagation 4" />
+
+</LinearLayout>
